@@ -1,5 +1,5 @@
 {
-  "name": "tutorial",
+  "name": "my-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,6 +9,7 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
+  "homepage": "https://1122dom.github.io/Dom/",
   "dependencies": {
     "@tabler/icons-react": "^2.30.0",
     "framer-motion": "^10.13.1",
